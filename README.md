@@ -24,7 +24,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 1. Describe your project.
 
-   - My asphalt art project is a digital 16 x 16 pixel chicken. It is just a general image of a white chicken with yellow feet and red comb.
+   - My asphalt art project is a digital 16 x 16 pixel chicken. It is just a general image of a white chicken with yellow feet and a red comb.
 
 2. What are two things about your project that you are proud of?
 
